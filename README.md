@@ -2,11 +2,11 @@
 <h1 align="center">🐈 About Me</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Vistas%20del%20perfil&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/blackmagenuitO&label=Vistas%20del%20perfil&style=for-the-badge" alt="profile views" />
 </p>
 
 <p align="center">
-  <b>35 years old</b> · ♀️ <b> She/Her</b> · 🌎 <b>From LATAM</b> · 💃 <b>oriental style dancer</b> · 🏃‍♀️ <b>Runner</b> · 
+  <b>35 years old</b> · ♀️ <b> She/Her</b> · 🌎 <b>From LATAM</b> · 💃 <b>Oriental style dancer</b> · 🏃‍♀️ <b>Runner</b> · 
   🇪🇸🇬🇧 <b>Spanish & English</b> · ⚡ <b>WebDev Jr FullStack & DBA (Learning)</b> · </p>
 
 ---
