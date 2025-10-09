@@ -1,9 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">🐈 About Me</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/blackmagenuitO&label=Vistas%20del%20perfil&style=for-the-badge" alt="profile views" />
-</p>
 
 <p align="center">
   <b>35 years old</b> · ♀️ <b> She/Her</b> · 🌎 <b>From LATAM</b> · 💃 <b>Oriental style dancer</b> · 🏃‍♀️ <b>Runner</b> · 
