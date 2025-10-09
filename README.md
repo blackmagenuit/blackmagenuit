@@ -14,8 +14,6 @@
   <a href="https://discord.com/users/blackmagenuit" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"></a>
   <a href="https://instagram.com/aeonsekhmet" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"></a>
   <a href="https://keybase.io/cabjazmin" target="_blank"><img alt="Keybase" src="https://img.shields.io/badge/Keybase-33A0FF?logo=keybase&logoColor=white&style=for-the-badge"></a>
-  <a href="https://ko-fi.com/TU_USUARIO" target="_blank"><img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-FF5E5B?logo=kofi&logoColor=white&style=for-the-badge"></a>
-  <a href="https://paypal.me/cabjazmin" target="_blank"><img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ---
