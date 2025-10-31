@@ -1,40 +1,66 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">🐈 About Me</h1>
-
-
-<p align="center">
-  <b>35 years old</b> · ♀️ <b> She/Her</b> · 🌎 <b>From LATAM</b> · 💃 <b>Oriental style dancer</b> · 🏃‍♀️ <b>Runner</b> · 
-  🇪🇸🇬🇧 <b>Spanish & English</b> · ⚡ <b>WebDev Jr FullStack & DBA (Learning)</b> · </p>
-
----
-
-<h2 align="center">🌐 Socials</h2>
+<!-- Encabezado -->
+<h1 align="center" style="color:#4B3F37;">🌿 About Me</h1>
 
 <p align="center">
-  <a href="https://discord.com/users/blackmagenuit" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"></a>
-  <a href="https://instagram.com/aeonsekhmet" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"></a>
-  <a href="https://keybase.io/cabjazmin" target="_blank"><img alt="Keybase" src="https://img.shields.io/badge/Keybase-33A0FF?logo=keybase&logoColor=white&style=for-the-badge"></a>
+  <samp>
+    She/Her · From LATAM · Oriental dancer & runner 🏃‍♀️<br/>
+    WebDev Jr FullStack & DBA (learning) · English & Spanish 🌎<br/>
+    Building tech with soul — one commit at a time.
+  </samp>
 </p>
 
----
+<hr style="height:1px;border:none;background:#d7c6b3;margin:18px 0;"/>
 
-<h2 align="center">💻 Tech Stacks</h2>
+<!-- Socials -->
+<h2 align="center" style="color:#4B3F37;">🌐 Socials</h2>
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-
-  <!-- Backend & Runtime -->
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
-
-  <!-- DB -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
-
-  <!-- DevOps / Hosting -->
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge" />
-  
+  <a href="https://discord.com/users/blackmagenuit" target="_blank">
+    <img alt="Discord"
+      src="https://img.shields.io/badge/Discord-4B3F37?style=flat-square&logo=discord&logoColor=FFFFFF&labelColor=ebd6d1&color=ebd6d1">
+  </a>
+  <a href="https://instagram.com/aeonsekhmet" target="_blank">
+    <img alt="Instagram"
+      src="https://img.shields.io/badge/Instagram-4B3F37?style=flat-square&logo=instagram&logoColor=FFFFFF&labelColor=d9b4ac&color=d9b4ac">
+  </a>
+  <a href="https://keybase.io/cabjazmin" target="_blank">
+    <img alt="Keybase"
+      src="https://img.shields.io/badge/Keybase-4B3F37?style=flat-square&logo=keybase&logoColor=FFFFFF&labelColor=d7c6b3&color=d7c6b3">
+  </a>
 </p>
+
+<hr style="height:1px;border:none;background:#d7c6b3;margin:18px 0;"/>
+
+<!-- Tech Stack -->
+<h2 align="center" style="color:#4B3F37;">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,mysql,cloudflare,tailwind&theme=dark" />
+</p>
+
+<!-- Badges suaves -->
+<p align="center">
+  <img alt="HTML5"
+    src="https://img.shields.io/badge/HTML5-4B3F37?style=flat-square&logo=html5&logoColor=FFFFFF&labelColor=ebd6d1&color=ebd6d1">
+  <img alt="CSS3"
+    src="https://img.shields.io/badge/CSS3-4B3F37?style=flat-square&logo=css3&logoColor=FFFFFF&labelColor=ebd6d1&color=ebd6d1">
+  <img alt="JavaScript"
+    src="https://img.shields.io/badge/JavaScript-4B3F37?style=flat-square&logo=javascript&logoColor=FFFFFF&labelColor=d7c6b3&color=d7c6b3">
+  <img alt="Node.js"
+    src="https://img.shields.io/badge/Node.js-4B3F37?style=flat-square&logo=nodedotjs&logoColor=FFFFFF&labelColor=d9b4ac&color=d9b4ac">
+  <img alt="PHP"
+    src="https://img.shields.io/badge/PHP-4B3F37?style=flat-square&logo=php&logoColor=FFFFFF&labelColor=ebd6d1&color=ebd6d1">
+  <img alt="MySQL"
+    src="https://img.shields.io/badge/MySQL-4B3F37?style=flat-square&logo=mysql&logoColor=FFFFFF&labelColor=d7c6b3&color=d7c6b3">
+  <img alt="Cloudflare"
+    src="https://img.shields.io/badge/Cloudflare-4B3F37?style=flat-square&logo=cloudflare&logoColor=FFFFFF&labelColor=d9b4ac&color=d9b4ac">
+</p>
+
+<hr style="height:1px;border:none;background:#d7c6b3;margin:18px 0;"/>
+
+<p align="center">
+  <samp style="color:#4B3F37;">Last update: 2025</samp>
+</p>
+
+
 
