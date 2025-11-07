@@ -58,8 +58,32 @@
 
 <hr style="height:1px;border:none;background:#d7c6b3;margin:18px 0;"/>
 
+<!-- GitHub Stats -->
+<h2 align="center" style="color:#4B3F37;">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=blackmagenuit&show_icons=true&hide_title=false&title_color=4B3F37&text_color=4B3F37&icon_color=d9b4ac&bg_color=ffffff00&hide_border=true" 
+    alt="GitHub stats de Jaz"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackmagenuit&layout=compact&title_color=4B3F37&text_color=4B3F37&bg_color=ffffff00&hide_border=true" 
+    alt="Lenguajes más usados"
+  />
+</p>
+
+
+<hr style="height:1px;border:none;background:#d7c6b3;margin:18px 0;"/>
+
 <p align="center">
   <samp style="color:#4B3F37;">Last update: 2025</samp>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=blackmagenuit&label=Profile%20views&color=d9b4ac&style=flat-square" alt="Profile views" />
 </p>
 
 
