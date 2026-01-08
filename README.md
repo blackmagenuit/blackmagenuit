@@ -61,18 +61,20 @@
 <hr style="height:2px;border:none;background:linear-gradient(to right, transparent, #E6E1FF, transparent);margin:30px 0;"/>
 
 <!-- GitHub Stats -->
-<h2 align="center" style="color:#7C6AE6;">📊 GitHub Stats</h2>
+<h2 align="center" style="color:#7C6AE6;">📊 GitHub Activity</h2>
 
 <p align="center">
-  <a href="https://github.com/blackmagenuit">
-    <img src="https://github-readme-stats.vercel.app/api?username=blackmagenuit&show_icons=true&theme=default&title_color=7C6AE6&icon_color=A89BFF&text_color=6B6B6B&bg_color=ffffff" alt="GitHub Stats" />
-  </a>
+  <img src="https://img.shields.io/github/followers/blackmagenuit?style=for-the-badge&logo=github&label=Followers&color=7C6AE6&labelColor=E6E1FF&logoColor=FFFFFF" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/blackmagenuit?style=for-the-badge&logo=github&label=Stars&color=A89BFF&labelColor=EBDFFF&logoColor=FFFFFF" alt="GitHub Stars" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/blackmagenuit">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackmagenuit&layout=compact&theme=default&title_color=7C6AE6&text_color=6B6B6B&bg_color=ffffff" alt="Top Languages" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackmagenuit&theme=default" alt="GitHub Activity" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blackmagenuit&theme=default" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blackmagenuit&theme=default" alt="Most Commit Language" />
 </p>
 
 <hr style="height:2px;border:none;background:linear-gradient(to right, transparent, #E6E1FF, transparent);margin:30px 0;"/>
@@ -84,6 +86,4 @@
 <p align="center">
   <samp style="color:#7C6AE6;">✨ Last update: 2026 ✨</samp>
 </p>
-
-
 
