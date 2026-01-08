@@ -82,7 +82,7 @@
 </p>
 
 <p align="center">
-  <samp style="color:#7C6AE6;">✨ Last update: 2025 ✨</samp>
+  <samp style="color:#7C6AE6;">✨ Last update: 2026 ✨</samp>
 </p>
 
 
