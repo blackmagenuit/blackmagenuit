@@ -38,7 +38,7 @@
 <h2 align="center" style="color:#7C6AE6;">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,mysql,cloudflare,tailwind&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,python,mysql,cloudflare,tailwind&theme=light" />
 </p>
 
 <p align="center">
@@ -52,6 +52,8 @@
     src="https://img.shields.io/badge/Node.js-7C6AE6?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF&labelColor=E6E1FF">
   <img alt="PHP"
     src="https://img.shields.io/badge/PHP-7C6AE6?style=for-the-badge&logo=php&logoColor=FFFFFF&labelColor=EBDFFF">
+  <img alt="Python"
+    src="https://img.shields.io/badge/Python-7C6AE6?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=E6E1FF">
   <img alt="MySQL"
     src="https://img.shields.io/badge/MySQL-7C6AE6?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=F1ECFF">
   <img alt="Cloudflare"
