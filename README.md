@@ -41,6 +41,42 @@ I'm a passionate junior developer crafting web experiences with HTML, CSS, and J
 
 ---
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackmagenuit&show_icons=true&theme=default&hide_border=true)](https://github.com/blackmagenuit)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blackmagenuit&layout=compact&theme=default&hide_border=true)](https://github.com/blackmagenuit)
+
+</div>
+
+---
+
+## 🚀 Learning Roadmap
+
+- **Frontend** - Profundizing en JavaScript y React
+- **Backend** - Dominando Node.js y Express
+- **Databases** - MySQL & PostgreSQL (en progreso)
+- **DevOps** - Docker & deployment basics
+- **English** - Targeting Cambridge CAE (C1) certification
+
+---
+
+## 💼 Current Projects
+
+**Public Repos:**
+- Check out my repositories below 👇
+
+**Private Projects:**
+- Client portfolio websites (fullstack)
+- Database management systems (learning)
+- API development with Node.js
+
+---
+
 <div align="center">
 
 ![GitHub followers](https://img.shields.io/github/followers/blackmagenuit?style=flat-square&logo=github&label=Followers)
