@@ -1,17 +1,15 @@
+
 <div align="center">
 
-# ✨ Hi, I'm Jaz ✨
+# ✦ jaz ✦
+### *enchanting code into reality*
 
-**WebDev Jr FullStack & DBA** | From LATAM 🌎 | She/Her  
-Oriental dancer 💃 • Runner 🏃‍♀️ • Bilingual 🗣️
+**WebDev Jr FullStack & DBA** | LATAM 🌎 | She/Her  
+oriental dancer 💃 • nocturnal runner 🌙 • bilingual
 
 ---
 
-### 💜 About Me
-
-I'm a passionate junior developer crafting web experiences with soul  
-Currently learning backend technologies & database management  
-while maintaining an active lifestyle outside of code 🚀
+> *"Crafting digital spells with soul & code"*
 
 </div>
 
@@ -19,17 +17,13 @@ while maintaining an active lifestyle outside of code 🚀
 
 <div align="center">
 
-## 🛠️ Tech Stack
+### 🔮 About Me
 
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+A junior developer weaving web experiences through the shadows of code  
+Learning the dark arts of backend & databases  
+while dancing under the moonlight 🌙
+
+Passionate about creating beauty from chaos, one commit at a time
 
 </div>
 
@@ -37,23 +31,17 @@ while maintaining an active lifestyle outside of code 🚀
 
 <div align="center">
 
-## 🌐 Connect With Me
+## ✧ Spellbook (Tech Stack) ✧
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/blackmagenuit)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/aeonsekhmet)
-[![Keybase](https://img.shields.io/badge/Keybase-33A0FF?style=flat-square&logo=keybase&logoColor=white)](https://keybase.io/cabjazmin)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackmagenuit&show_icons=true&theme=default&hide_border=true)](https://github.com/blackmagenuit)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blackmagenuit&layout=compact&theme=default&hide_border=true)](https://github.com/blackmagenuit)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34C26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=777BB4)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-000000?style=flat-square&logo=cloudflare&logoColor=F38020)
 
 </div>
 
@@ -61,18 +49,11 @@ while maintaining an active lifestyle outside of code 🚀
 
 <div align="center">
 
-## 🚀 Learning Roadmap
+## 🌙 Grimoire (Connect With Me) 🌙
 
-| Level | Focus | Status |
-|-------|-------|--------|
-| **Frontend** 🎨 | Master JavaScript ES6+ & React | 🔄 In Progress |
-| **Styling** 💅 | Advanced CSS & Tailwind CSS mastery | ✅ Strong |
-| **Backend** ⚙️ | Node.js & Express API development | 🔄 Learning |
-| **Databases** 💾 | MySQL & PostgreSQL optimization | 🔄 Learning |
-| **PHP** 🐘 | Backend frameworks & CMS development | 🔄 Building |
-| **Python** 🐍 | Scripting & automation tools | 🌱 Starting |
-| **DevOps** 🚀 | Cloudflare & deployment basics | 🌱 Starting |
-| **Language** 🗣️ | Cambridge CAE C1 certification | 🔄 In Progress |
+[![Discord](https://img.shields.io/badge/Discord-000000?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.com/users/blackmagenuit)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/aeonsekhmet)
+[![Keybase](https://img.shields.io/badge/Keybase-000000?style=flat-square&logo=keybase&logoColor=33A0FF)](https://keybase.io/cabjazmin)
 
 </div>
 
@@ -80,15 +61,11 @@ while maintaining an active lifestyle outside of code 🚀
 
 <div align="center">
 
-## 💼 Current Projects
+## 🖤 Ethereal Stats 🖤
 
-**Public Repos** 📂  
-Check out my repositories below 👇
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackmagenuit&show_icons=true&theme=dark&hide_border=true)](https://github.com/blackmagenuit)
 
-**Private Projects** 🔒
-- ✨ Client portfolio websites (fullstack)
-- 🗄️ Database management systems (learning)
-- 🔌 API development with Node.js & PHP
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blackmagenuit&layout=compact&theme=dark&hide_border=true)](https://github.com/blackmagenuit)
 
 </div>
 
@@ -96,9 +73,61 @@ Check out my repositories below 👇
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/blackmagenuit?style=flat-square&logo=github&label=Followers)
-![Profile views](https://komarev.com/ghpvc/?username=blackmagenuit&style=flat-square)
+## ⭐ Mystical Path (Learning Roadmap) ⭐
 
-**✨ Crafting tech with soul — one commit at a time ✨**
+```
+🌑 FRONTEND WITCHERY
+   └─ Master JavaScript ES6+ & React incantations ········· 🔄
+   └─ Advanced CSS & Tailwind spell-crafting ········· ✦
+
+🕷️ BACKEND SORCERY
+   └─ Node.js & Express dark arts ········· 🔄
+   └─ PHP framework enchantments ········· 🔄
+
+💀 DATABASE NECROMANCY
+   └─ MySQL & PostgreSQL ancient knowledge ········· 🔄
+   └─ Optimization hexes ········· 🌱
+
+🐍 PYTHON ALCHEMY
+   └─ Scripting & automation rituals ········· 🌱
+
+☁️ CLOUDFLARE MYSTICISM
+   └─ Deployment & DevOps incantations ········· 🌱
+
+🗣️ LINGUISTIC TRANSMUTATION
+   └─ Cambridge CAE C1 certification quest ········· 🔄
+
+Legend: ✦ Mastered | 🔄 In Progress | 🌱 Just Started
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔗 Cursed Projects 🔗
+
+**✧ Public Codex** 📖  
+Explore my repositories in the shadows below
+
+**🌙 Private Artifacts** 🌙
+- ◆ Client enchantments (fullstack dark web)
+- ◆ Database grimoire (learning demonology)
+- ◆ API incantations (Node.js & PHP sorcery)
+
+</div>
+
+---
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/blackmagenuit?style=flat-square&logo=github&label=Followers&color=777777&labelColor=000000)
+![Profile views](https://komarev.com/ghpvc/?username=blackmagenuit&style=flat-square&color=777777&labelColor=000000)
+
+---
+
+*✦ weaving magic into code, one dark commit at a time ✦*  
+*last ritual: 2026*
 
 </div>
