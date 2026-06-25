@@ -61,7 +61,6 @@ I'm a passionate junior developer crafting web experiences with HTML, CSS, and J
 - **Backend** - Dominando Node.js y Express
 - **Databases** - MySQL & PostgreSQL (en progreso)
 - **DevOps** - Docker & deployment basics
-- **English** - Targeting Cambridge CAE (C1) certification
 
 ---
 
