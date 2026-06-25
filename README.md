@@ -1,19 +1,25 @@
-# Hi, I'm Jaz 👋
+<div align="center">
+
+# ✨ Hi, I'm Jaz ✨
 
 **WebDev Jr FullStack & DBA** | From LATAM 🌎 | She/Her  
 Oriental dancer 💃 • Runner 🏃‍♀️ • Bilingual 🗣️
 
 ---
 
-## About Me
+### 💜 About Me
 
-I'm a passionate junior developer crafting web experiences with HTML, CSS, and JavaScript. Currently learning backend technologies and database management while maintaining an active lifestyle outside of code.
+I'm a passionate junior developer crafting web experiences with soul  
+Currently learning backend technologies & database management  
+while maintaining an active lifestyle outside of code 🚀
+
+</div>
 
 ---
 
-## Tech Stack
-
 <div align="center">
+
+## 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -29,9 +35,9 @@ I'm a passionate junior developer crafting web experiences with HTML, CSS, and J
 
 ---
 
-## Connect With Me
-
 <div align="center">
+
+## 🌐 Connect With Me
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/blackmagenuit)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/aeonsekhmet)
@@ -41,11 +47,9 @@ I'm a passionate junior developer crafting web experiences with HTML, CSS, and J
 
 ---
 
----
+<div align="center">
 
 ## 📊 GitHub Stats
-
-<div align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackmagenuit&show_icons=true&theme=default&hide_border=true)](https://github.com/blackmagenuit)
 
@@ -55,24 +59,38 @@ I'm a passionate junior developer crafting web experiences with HTML, CSS, and J
 
 ---
 
+<div align="center">
+
 ## 🚀 Learning Roadmap
 
-- **Frontend** - Profundizing en JavaScript y React
-- **Backend** - Dominando Node.js y Express
-- **Databases** - MySQL & PostgreSQL (en progreso)
-- **DevOps** - Docker & deployment basics
+| Level | Focus | Status |
+|-------|-------|--------|
+| **Frontend** 🎨 | Master JavaScript ES6+ & React | 🔄 In Progress |
+| **Styling** 💅 | Advanced CSS & Tailwind CSS mastery | ✅ Strong |
+| **Backend** ⚙️ | Node.js & Express API development | 🔄 Learning |
+| **Databases** 💾 | MySQL & PostgreSQL optimization | 🔄 Learning |
+| **PHP** 🐘 | Backend frameworks & CMS development | 🔄 Building |
+| **Python** 🐍 | Scripting & automation tools | 🌱 Starting |
+| **DevOps** 🚀 | Cloudflare & deployment basics | 🌱 Starting |
+| **Language** 🗣️ | Cambridge CAE C1 certification | 🔄 In Progress |
+
+</div>
 
 ---
 
+<div align="center">
+
 ## 💼 Current Projects
 
-**Public Repos:**
-- Check out my repositories below 👇
+**Public Repos** 📂  
+Check out my repositories below 👇
 
-**Private Projects:**
-- Client portfolio websites (fullstack)
-- Database management systems (learning)
-- API development with Node.js
+**Private Projects** 🔒
+- ✨ Client portfolio websites (fullstack)
+- 🗄️ Database management systems (learning)
+- 🔌 API development with Node.js & PHP
+
+</div>
 
 ---
 
@@ -80,5 +98,7 @@ I'm a passionate junior developer crafting web experiences with HTML, CSS, and J
 
 ![GitHub followers](https://img.shields.io/github/followers/blackmagenuit?style=flat-square&logo=github&label=Followers)
 ![Profile views](https://komarev.com/ghpvc/?username=blackmagenuit&style=flat-square)
+
+**✨ Crafting tech with soul — one commit at a time ✨**
 
 </div>
