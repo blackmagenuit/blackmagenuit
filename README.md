@@ -1,91 +1,49 @@
-<!-- Header -->
-<h1 align="center" style="color:#7C6AE6;">✨ About Me ✨</h1>
+# Hi, I'm Jaz 👋
 
-<p align="center">
-  <samp>
-    💜 She/Her · From LATAM 🌎<br/>
-    💃 Oriental dancer & runner 🏃‍♀️<br/>
-    👩‍💻 WebDev Jr FullStack & DBA (learning)<br/>
-    🗣️ English & Spanish<br/>
-    <br/>
-    <em>✨ Crafting tech with soul — one commit at a time ✨</em>
-  </samp>
-</p>
+**WebDev Jr FullStack & DBA** | From LATAM 🌎 | She/Her  
+Oriental dancer 💃 • Runner 🏃‍♀️ • Bilingual 🗣️
 
-<hr style="height:2px;border:none;background:linear-gradient(to right, transparent, #E6E1FF, transparent);margin:30px 0;"/>
+---
 
-<!-- Socials -->
-<h2 align="center" style="color:#7C6AE6;">🌐 Connect With Me</h2>
+## About Me
 
-<p align="center">
-  <a href="https://discord.com/users/blackmagenuit" target="_blank">
-    <img alt="Discord"
-      src="https://img.shields.io/badge/Discord-7C6AE6?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=E6E1FF">
-  </a>
-  <a href="https://instagram.com/aeonsekhmet" target="_blank">
-    <img alt="Instagram"
-      src="https://img.shields.io/badge/Instagram-7C6AE6?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=EBDFFF">
-  </a>
-  <a href="https://keybase.io/cabjazmin" target="_blank">
-    <img alt="Keybase"
-      src="https://img.shields.io/badge/Keybase-7C6AE6?style=for-the-badge&logo=keybase&logoColor=FFFFFF&labelColor=F1ECFF">
-  </a>
-</p>
+I'm a passionate junior developer crafting web experiences with HTML, CSS, and JavaScript. Currently learning backend technologies and database management while maintaining an active lifestyle outside of code.
 
-<hr style="height:2px;border:none;background:linear-gradient(to right, transparent, #E6E1FF, transparent);margin:30px 0;"/>
+---
 
-<!-- Tech Stack -->
-<h2 align="center" style="color:#7C6AE6;">🛠️ Tech Stack</h2>
+## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,python,mysql,cloudflare,tailwind&theme=light" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img alt="HTML5"
-    src="https://img.shields.io/badge/HTML5-7C6AE6?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=E6E1FF">
-  <img alt="CSS3"
-    src="https://img.shields.io/badge/CSS3-7C6AE6?style=for-the-badge&logo=css3&logoColor=FFFFFF&labelColor=EBDFFF">
-  <img alt="JavaScript"
-    src="https://img.shields.io/badge/JavaScript-7C6AE6?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=F1ECFF">
-  <img alt="Node.js"
-    src="https://img.shields.io/badge/Node.js-7C6AE6?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF&labelColor=E6E1FF">
-  <img alt="PHP"
-    src="https://img.shields.io/badge/PHP-7C6AE6?style=for-the-badge&logo=php&logoColor=FFFFFF&labelColor=EBDFFF">
-  <img alt="Python"
-    src="https://img.shields.io/badge/Python-7C6AE6?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=E6E1FF">
-  <img alt="MySQL"
-    src="https://img.shields.io/badge/MySQL-7C6AE6?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=F1ECFF">
-  <img alt="Cloudflare"
-    src="https://img.shields.io/badge/Cloudflare-7C6AE6?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF&labelColor=E6E1FF">
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-<hr style="height:2px;border:none;background:linear-gradient(to right, transparent, #E6E1FF, transparent);margin:30px 0;"/>
+</div>
 
-<!-- GitHub Stats -->
-<h2 align="center" style="color:#7C6AE6;">📊 GitHub Activity</h2>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/blackmagenuit?style=for-the-badge&logo=github&label=Followers&color=7C6AE6&labelColor=E6E1FF&logoColor=FFFFFF" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/blackmagenuit?style=for-the-badge&logo=github&label=Stars&color=A89BFF&labelColor=EBDFFF&logoColor=FFFFFF" alt="GitHub Stars" />
-</p>
+## Connect With Me
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackmagenuit&theme=default" alt="GitHub Activity" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blackmagenuit&theme=default" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blackmagenuit&theme=default" alt="Most Commit Language" />
-</p>
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/blackmagenuit)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/aeonsekhmet)
+[![Keybase](https://img.shields.io/badge/Keybase-33A0FF?style=flat-square&logo=keybase&logoColor=white)](https://keybase.io/cabjazmin)
 
-<hr style="height:2px;border:none;background:linear-gradient(to right, transparent, #E6E1FF, transparent);margin:30px 0;"/>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=blackmagenuit&label=Profile%20views&color=A89BFF&style=for-the-badge" />
-</p>
+---
 
-<p align="center">
-  <samp style="color:#7C6AE6;">✨ Last update: 2026 ✨</samp>
-</p>
+<div align="center">
 
+![GitHub followers](https://img.shields.io/github/followers/blackmagenuit?style=flat-square&logo=github&label=Followers)
+![Profile views](https://komarev.com/ghpvc/?username=blackmagenuit&style=flat-square)
+
+</div>
