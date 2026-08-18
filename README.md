@@ -63,9 +63,9 @@ Passionate about creating beauty from chaos, one commit at a time
 
 ## 💜 Ethereal Stats 💜
 
-[![GitHub Stats](https://github-readme-stats-rho-navy-34.vercel.app/api?username=blackmagenuit&show_icons=true&theme=dracula&hide_border=true&icon_color=ff79c6&title_color=bd93f9&text_color=f8f8f2&bg_color=1a1b27)](https://github.com/blackmagenuit)
+[![GitHub Stats](https://github-readme-stats-rho-navy-34.vercel.app/api?username=blackmagenuit&show_icons=true&theme=dracula&hide_border=true&icon_color=ff79c6&title_color=bd93f9&text_color=f8f8f2&bg_color=1a1b27&cache_bust=2)](https://github.com/blackmagenuit)
 
-[![Top Languages](https://github-readme-stats-rho-navy-34.vercel.app/api/top-langs/?username=blackmagenuit&layout=compact&theme=dracula&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=1a1b27)](https://github.com/blackmagenuit)
+[![Top Languages](https://github-readme-stats-rho-navy-34.vercel.app/api/top-langs/?username=blackmagenuit&layout=compact&theme=dracula&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=1a1b27&cache_bust=2)](https://github.com/blackmagenuit)
 
 </div>
 
