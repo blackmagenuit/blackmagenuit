@@ -81,7 +81,7 @@ Passionate about creating beauty from chaos, one commit at a time
    └─ Advanced CSS & Tailwind spell-crafting ········· ✦
 
 🕷️ BACKEND SORCERY
-   └─ Node.js & Express dark arts ········· 🔄
+   └─ Node.js, Express & JWT auth dark arts ········· 🔄
    └─ PHP framework enchantments ········· 🔄
 
 💀 DATABASE NECROMANCY
@@ -108,8 +108,14 @@ Legend: ✦ Mastered | 🔄 In Progress | 🌱 Just Started
 
 ## 🔗 Cursed Projects 🔗
 
-**✧ Public Codex** 📖  
-Explore my repositories in the shadows below
+**✧ Featured Grimoires** 📖
+
+| Spell | Description | Links |
+|---|---|---|
+| **fullstack-node-express-mongo-parte-2** | Node.js + Express + MongoDB + React/Vite, JWT auth, search, filters, pagination & WordPress Headless | [Demo](https://fullstack-node-express-mongo-parte.vercel.app) · [Repo](https://github.com/blackmagenuit/fullstack-node-express-mongo-parte-2) |
+| **bento-grid** | Responsive bento-grid dashboard for an AI social media platform (Frontend Mentor) | [Demo](https://blackmagenuit.github.io/bento-grid) · [Repo](https://github.com/blackmagenuit/bento-grid) |
+| **selector-aleatorio** | Interactive activity wheel with animations, sound & confetti (vanilla JS) | [Demo](https://blackmagenuit.github.io/selector-aleatorio) · [Repo](https://github.com/blackmagenuit/selector-aleatorio) |
+| **csv-export-tool** | Python tool that parses CSV mining reports into formatted Excel reports (BTC/USD) | [Repo](https://github.com/blackmagenuit/csv-export-tool) |
 
 **🌙 Private Artifacts** 🌙
 - ◆ Client enchantments (fullstack dark web)
@@ -128,6 +134,6 @@ Explore my repositories in the shadows below
 ---
 
 *✦ weaving magic into code, one dark commit at a time ✦*  
-*last ritual: 2026*
+*last ritual: agosto 2026*
 
 </div>
