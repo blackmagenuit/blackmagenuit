@@ -33,15 +33,15 @@ Passionate about creating beauty from chaos, one commit at a time
 
 ## ✧ Spellbook (Tech Stack) ✧
 
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34C26)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
-![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=777BB4)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
-![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-000000?style=flat-square&logo=cloudflare&logoColor=F38020)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 </div>
 
@@ -51,9 +51,9 @@ Passionate about creating beauty from chaos, one commit at a time
 
 ## 🌙 Grimoire (Connect With Me) 🌙
 
-[![Discord](https://img.shields.io/badge/Discord-000000?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.com/users/blackmagenuit)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/aeonsekhmet)
-[![Keybase](https://img.shields.io/badge/Keybase-000000?style=flat-square&logo=keybase&logoColor=33A0FF)](https://keybase.io/cabjazmin)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/blackmagenuit)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aeonsekhmet)
+[![Keybase](https://img.shields.io/badge/Keybase-33A0FF?style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/cabjazmin)
 
 </div>
 
@@ -61,11 +61,11 @@ Passionate about creating beauty from chaos, one commit at a time
 
 <div align="center">
 
-## 🖤 Ethereal Stats 🖤
+## 💜 Ethereal Stats 💜
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackmagenuit&show_icons=true&theme=dark&hide_border=true)](https://github.com/blackmagenuit)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackmagenuit&show_icons=true&theme=dracula&hide_border=true&icon_color=ff79c6&title_color=bd93f9&text_color=f8f8f2&bg_color=1a1b27)](https://github.com/blackmagenuit)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blackmagenuit&layout=compact&theme=dark&hide_border=true)](https://github.com/blackmagenuit)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blackmagenuit&layout=compact&theme=dracula&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=1a1b27)](https://github.com/blackmagenuit)
 
 </div>
 
@@ -128,8 +128,8 @@ Legend: ✦ Mastered | 🔄 In Progress | 🌱 Just Started
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/blackmagenuit?style=flat-square&logo=github&label=Followers&color=777777&labelColor=000000)
-![Profile views](https://komarev.com/ghpvc/?username=blackmagenuit&style=flat-square&color=777777&labelColor=000000)
+![GitHub followers](https://img.shields.io/github/followers/blackmagenuit?style=for-the-badge&logo=github&label=Followers&color=bd93f9&labelColor=1a1b27)
+![Profile views](https://komarev.com/ghpvc/?username=blackmagenuit&style=for-the-badge&color=ff79c6&labelColor=1a1b27)
 
 ---
 
